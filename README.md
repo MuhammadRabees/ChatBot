@@ -47,12 +47,12 @@ Image Picking: ActivityResultContracts (The modern way to handle Camera and Gall
 You only need 3 steps to run this project:
 
 # 1. Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/MuhammadRabees/ChatBot.git](https://github.com/MuhammadRabees/ChatBot.git)
 
 # 2. Get API Key
    This app uses OpenRouter.ai for its API calls.
    
-   Create an account on OpenRouter.Copy your API Key.
+   Create an account on https://openrouter.ai. Copy your API Key.
 # 3. Create local.properties file
 In your project's root folder (where gradle.properties is located), create a new file named local.properties.
 
