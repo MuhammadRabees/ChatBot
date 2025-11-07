@@ -2,13 +2,13 @@
  This is a modern, native Android chatbot application built with Kotlin. It is inspired by the design of ChatGPT and utilizes the gpt-4o model via OpenRouter to understand both text and image-based messages.
 
 # 📸 Screenshots
-<img width="259" height="556" alt="image" src="https://github.com/user-attachments/assets/c3727892-080a-47a4-9ed4-acab796103ef" />
+<img width="259" height="556" alt="image" src="https://github.com/user-attachments/assets/c3727892-080a-47a4-9ed4-acab796103ef" /> 
 <img width="262" height="546" alt="image" src="https://github.com/user-attachments/assets/a492b460-f1c8-4a03-a612-e5b1cb9d3e64" />
 <img width="260" height="561" alt="image" src="https://github.com/user-attachments/assets/fbadabd9-37f6-46a5-8024-d42d36404ca6" />
 
 # ✨ FeaturesMultimodal Chat:
-Ask questions not just with text, but also about images using gpt-4o vision capabilities.
-Camera & Gallery Integration: Attach and send a live photo from the camera or an existing image from the gallery.
+Ask questions not just with text, but also about images using gpt-4o vision capabilities./n
+Camera & Gallery Integration: Attach and send a live photo from the camera or an existing image from the gallery.\n
 Local Chat History: Every chat session, along with its messages, is saved locally on the user's phone using a Room Database.
 Session Management: A ChatGPT-like side panel (Navigation Drawer) where all your past chat history is accessible.
 "New Chat" Functionality: The app always starts with a fresh, blank "New Chat" screen.
