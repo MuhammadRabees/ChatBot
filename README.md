@@ -7,8 +7,10 @@
 <img width="260" height="561" alt="image" src="https://github.com/user-attachments/assets/fbadabd9-37f6-46a5-8024-d42d36404ca6" />
 
 # ✨ FeaturesMultimodal Chat:
-Ask questions not just with text, but also about images using gpt-4o vision capabilities./n
-Camera & Gallery Integration: Attach and send a live photo from the camera or an existing image from the gallery.\n
+Ask questions not just with text, but also about images using gpt-4o vision capabilities.
+
+Camera & Gallery Integration: Attach and send a live photo from the camera or an existing image from the gallery.
+
 Local Chat History: Every chat session, along with its messages, is saved locally on the user's phone using a Room Database.
 Session Management: A ChatGPT-like side panel (Navigation Drawer) where all your past chat history is accessible.
 "New Chat" Functionality: The app always starts with a fresh, blank "New Chat" screen.
